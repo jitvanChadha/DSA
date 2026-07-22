@@ -1,5 +1,5 @@
 import java.util.Random;
-public class practice {
+public class LasVegasAlgo {
     public static void main(String[] args) {
         int[] array = {1, 2, 3, 4, 5, 6, 6, 6, 6, 6};
         Random random = new Random();
